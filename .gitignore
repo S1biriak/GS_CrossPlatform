@@ -1,0 +1,15 @@
+**/bin/
+**/obj/
+.vs/
+.local/
+.packages/
+artifacts/
+**/App_Data/
+*.db
+*.db-shm
+*.db-wal
+*.user
+*.suo
+TestResults/
+*.trx
+postman/*secrets*.json
